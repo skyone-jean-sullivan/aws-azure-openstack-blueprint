@@ -4,7 +4,7 @@ imports:
   - subnet.yaml
   - route-table.yaml
   - internet-gateway.yaml
-  - nat-instance-security-group.yaml
-  - nat-instance-elastic-ip.yaml
-  - nat-instance.yaml
+#  - nat-instance-security-group.yaml
+#  - nat-instance-elastic-ip.yaml
+#  - nat-instance.yaml
   - public-network-interface.yaml

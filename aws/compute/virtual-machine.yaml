@@ -11,7 +11,7 @@ inputs:
     default: ''
 
   example_aws_virtual_machine_image_id:
-    default: ami-165bdf01 # Cloudify Manager AMI
+    default: ami-dcf0f2a3 # Cloudify Manager AMI
 
   example_aws_virtual_machine_instance_type:
     default: m3.large

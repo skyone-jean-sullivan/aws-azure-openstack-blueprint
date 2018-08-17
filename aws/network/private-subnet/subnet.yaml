@@ -16,7 +16,7 @@ inputs:
     default: 172.16.123.0/24
 
   example_aws_private_subnet_availability_zone:
-    default: us-east-1e
+    default: us-east-1c
 
   example_aws_private_subnet_tags:
     default: { get_input: default_tags }
