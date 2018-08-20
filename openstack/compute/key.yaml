@@ -6,7 +6,7 @@ inputs:
     default: false
 
   example_openstack_key:
-    default: example-openstack-key
+    default: devops-skyone-solutions
 
   example_openstack_key_file:
     default: ~/.ssh/example-openstack-key.pem

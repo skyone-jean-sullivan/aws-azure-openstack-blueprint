@@ -7,31 +7,31 @@ imports:
 inputs:
 
   keystone_username:
-    default: ''
+    default: uolcloudrbvsj
     type: string
 
   keystone_password:
-    default: ''
+    default: Dual2020@@@@
     type: string
 
   keystone_tenant_name:
-    default: ''
+    default: uolcloudrbvsj
     type: string
 
   keystone_url:
-    default: ''
+    default: https://keystone.br-sp1.openstack.uolcloud.com.br:5000/v2.0
     type: string
 
   region:
-    default: ''
+    default: br-sp1-a
     type: string
 
   nova_url:
-    default: ''
+    default: https://nova.br-sp1.openstack.uolcloud.com.br:8774/v2/7968578e4eb74e5cb0977726541657b6
     type: string
 
   neutron_url:
-    default: ''
+    default: https://neutron.br-sp1.openstack.uolcloud.com.br:9696
     type: string
 
   openstack_configuration:
