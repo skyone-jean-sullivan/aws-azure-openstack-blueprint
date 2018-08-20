@@ -7,15 +7,15 @@ imports:
 inputs:
 
   keystone_username:
-    default: uolcloudrbvsj
+    default: xxxxxxxxx
     type: string
 
   keystone_password:
-    default: Dual2020@@@@
+    default: xxxxxxxx
     type: string
 
   keystone_tenant_name:
-    default: uolcloudrbvsj
+    default: xxxxxxxxx
     type: string
 
   keystone_url:
